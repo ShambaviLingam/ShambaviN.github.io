@@ -1,0 +1,81 @@
+body 
+{
+	background-color:rgb(0,0,0);
+	color:white;
+	margin:0%;
+}/*end of the body*/
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: blue;
+  overflow: hidden;
+ 
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding: 14pt 16pt;
+  text-decoration: none;
+  font-size: 17pt;
+}
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: blue;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 14pt 16pt;
+  text-decoration: none;
+  font-size: 17pt;
+}
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] 
+{
+  float: right;
+  padding: 6pt;
+  border: none;
+  margin-top: 8pt;
+  margin-right: 16pt;
+  font-size: 17pt;
+}
+
+p 
+{
+	font-family: arial, sans;
+	font-size: 16pt;
+	font-style: normal;
+	line-height: 24pt;
+	text-align: center;
+	color: red ;
+}/*p*/
+
+
+h1
+{
+	color:white;
+	font-size:48pt;
+	font-family:Times New Roman; 
+	text-align: center;
+} /*end of h1 */
+
+h2
+{	color:white;
+	font-size:36pt;
+	font-family:Times New Roman; 
+	text-align: center;
+} /*end of h2*/  	
+
+/* This is for an ICS project */
+	
+
+
+

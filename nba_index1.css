@@ -1,0 +1,85 @@
+body 
+{
+	background-color:rgb(0,0,0);
+	color:white;
+	margin:0%;
+}/*end of the body*/
+h1
+{
+	color: blue;
+	font-family: Verdana, fantasy;
+	font-style: oblique;
+	font-weight: bolder; 
+	font-size: 36pt;
+	text-align: center;
+	
+}/*end of head*/
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: blue;
+  overflow: hidden;
+ 
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding: 14pt 16pt;
+  text-decoration: none;
+  font-size: 17pt;
+}
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: blue;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 14pt 16pt;
+  text-decoration: none;
+  font-size: 17pt;
+}
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] 
+{
+  float: right;
+  padding: 6pt;
+  border: none;
+  margin-top: 8pt;
+  margin-right: 16pt;
+  font-size: 17pt;
+}
+
+h2
+{
+	color: white;
+	font-family: "Arial Narow", cursive;	
+	font-weight: bold;
+	font-size: 20pt;
+}/*end of head*/
+img
+{
+	padding: 30px 30px 30px 30px;
+	border: white;
+	background-color: rgb(240,0,0)
+}/*end of img*/
+p{
+	font-family: Times new roman, sans;
+	font-size: 16pt;
+	font-style: normal;
+	line-height: 24pt;
+	text-align: center;
+	color: blue;
+}/*p*/
+
+
+
+/* This is for an ICS project */
